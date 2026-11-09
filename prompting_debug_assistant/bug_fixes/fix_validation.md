@@ -48,12 +48,12 @@
 
 ## Bug 3 – bug3_fixed.java
 - **Input**: `add(10, 5)`
-- **Expected Output**: `15.0`
-- **Actual Output**: `15.0` ✅
+- **Expected Output**: `15`
+- **Actual Output**: `15` ✅
 
 - **Input**: `add(-1, 1)`
-- **Expected Output**: `0.0`
-- **Actual Output**: `0.0` ✅
+- **Expected Output**: `0`
+- **Actual Output**: `0` ✅
 
 - **Input**: `divide(10, 5)`
 - **Expected Output**: `2.0`
